@@ -43,5 +43,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClassName = "net.sidion.AppKt"
+    mainClassName = "net.ktor.AppKt"
 }
